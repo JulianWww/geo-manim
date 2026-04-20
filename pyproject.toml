@@ -1,0 +1,10 @@
+[project]
+name = "geo-manim-2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "manim>=0.19.2",
+    "sympy>=1.14.0",
+]
